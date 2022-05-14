@@ -1,0 +1,16 @@
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\bin\Release\net5.0\data processor.exe
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\bin\Release\net5.0\data processor.deps.json
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\bin\Release\net5.0\data processor.runtimeconfig.json
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\bin\Release\net5.0\data processor.runtimeconfig.dev.json
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\bin\Release\net5.0\data processor.dll
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\bin\Release\net5.0\ref\data processor.dll
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\bin\Release\net5.0\data processor.pdb
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\obj\Release\net5.0\data processor.csproj.AssemblyReference.cache
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\obj\Release\net5.0\data processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\obj\Release\net5.0\data processor.AssemblyInfoInputs.cache
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\obj\Release\net5.0\data processor.AssemblyInfo.cs
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\obj\Release\net5.0\data processor.csproj.CoreCompileInputs.cache
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\obj\Release\net5.0\data processor.dll
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\obj\Release\net5.0\ref\data processor.dll
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\obj\Release\net5.0\data processor.pdb
+C:\Users\Ramez\Desktop\data final final\data\data processor\data processor\obj\Release\net5.0\data processor.genruntimeconfig.cache

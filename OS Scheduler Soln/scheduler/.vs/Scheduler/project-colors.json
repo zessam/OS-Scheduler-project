@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f40a531a-c98a-411c-a334-813886aeaef7": {
+      "ProjectGuid": "f40a531a-c98a-411c-a334-813886aeaef7",
+      "DisplayName": "SchedulerLib",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

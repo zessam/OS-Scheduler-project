@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QUCwnefBxG6CXyi/wYbrf5mymrrcJPO2FRubjLzl98VBE+cNb7EIpOVFqEpAgm0eMxuiQDZ4XyGbouApnnQ5LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zeyad Essam\\Desktop\\New folder\\OS Final Project Sols\\data final final\\data\\data processor\\data processor\\data processor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zeyad Essam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

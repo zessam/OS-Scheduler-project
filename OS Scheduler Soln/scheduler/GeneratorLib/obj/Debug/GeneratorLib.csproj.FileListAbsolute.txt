@@ -1,0 +1,9 @@
+C:\Users\Ramez\source\repos\Scheduler\GeneratorLib\obj\Debug\GeneratorLib.csproj.AssemblyReference.cache
+C:\Users\Ramez\source\repos\Scheduler\GeneratorLib\obj\Debug\GeneratorLib.csproj.CoreCompileInputs.cache
+C:\Users\Ramez\source\repos\Scheduler\GeneratorLib\bin\Debug\GeneratorLib.dll
+C:\Users\Ramez\source\repos\Scheduler\GeneratorLib\bin\Debug\GeneratorLib.pdb
+C:\Users\Ramez\source\repos\Scheduler\GeneratorLib\bin\Debug\SchedulerLib.dll
+C:\Users\Ramez\source\repos\Scheduler\GeneratorLib\bin\Debug\SchedulerLib.pdb
+C:\Users\Ramez\source\repos\Scheduler\GeneratorLib\obj\Debug\GeneratorLib.csproj.CopyComplete
+C:\Users\Ramez\source\repos\Scheduler\GeneratorLib\obj\Debug\GeneratorLib.dll
+C:\Users\Ramez\source\repos\Scheduler\GeneratorLib\obj\Debug\GeneratorLib.pdb

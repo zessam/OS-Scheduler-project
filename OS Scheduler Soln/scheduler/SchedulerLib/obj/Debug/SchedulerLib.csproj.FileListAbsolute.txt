@@ -1,0 +1,6 @@
+C:\Users\Ramez\source\repos\Scheduler\SchedulerLib\bin\Debug\SchedulerLib.dll
+C:\Users\Ramez\source\repos\Scheduler\SchedulerLib\bin\Debug\SchedulerLib.pdb
+C:\Users\Ramez\source\repos\Scheduler\SchedulerLib\obj\Debug\SchedulerLib.csproj.CoreCompileInputs.cache
+C:\Users\Ramez\source\repos\Scheduler\SchedulerLib\obj\Debug\SchedulerLib.dll
+C:\Users\Ramez\source\repos\Scheduler\SchedulerLib\obj\Debug\SchedulerLib.pdb
+C:\Users\Ramez\source\repos\Scheduler\SchedulerLib\obj\Debug\SchedulerLib.csproj.AssemblyReference.cache

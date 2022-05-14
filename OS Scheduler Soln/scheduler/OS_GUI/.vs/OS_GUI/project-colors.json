@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06cb604b-48a2-46f5-96ac-9b48ec3389f7": {
+      "ProjectGuid": "06cb604b-48a2-46f5-96ac-9b48ec3389f7",
+      "DisplayName": "OS_GUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

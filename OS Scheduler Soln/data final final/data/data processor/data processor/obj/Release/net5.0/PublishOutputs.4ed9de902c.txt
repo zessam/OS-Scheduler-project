@@ -1,0 +1,5 @@
+C:\Users\Ramez\Desktop\final proc gen\data processor.exe
+C:\Users\Ramez\Desktop\final proc gen\data processor.dll
+C:\Users\Ramez\Desktop\final proc gen\data processor.deps.json
+C:\Users\Ramez\Desktop\final proc gen\data processor.runtimeconfig.json
+C:\Users\Ramez\Desktop\final proc gen\data processor.pdb

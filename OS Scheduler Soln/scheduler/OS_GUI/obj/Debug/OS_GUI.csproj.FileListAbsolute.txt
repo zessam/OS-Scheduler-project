@@ -1,0 +1,5 @@
+C:\Users\Ramez\source\repos\Scheduler\OS_GUI\obj\Debug\OS_GUI.csproj.AssemblyReference.cache
+C:\Users\Ramez\source\repos\Scheduler\OS_GUI\obj\Debug\OS.home.resources
+C:\Users\Ramez\source\repos\Scheduler\OS_GUI\obj\Debug\OS_GUI.Properties.Resources.resources
+C:\Users\Ramez\source\repos\Scheduler\OS_GUI\obj\Debug\OS_GUI.csproj.GenerateResource.cache
+C:\Users\Ramez\source\repos\Scheduler\OS_GUI\obj\Debug\OS_GUI.csproj.CoreCompileInputs.cache
